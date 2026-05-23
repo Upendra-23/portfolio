@@ -121,66 +121,22 @@ export const profile = {
       description:
         "Developed a microservices-based banking application with Spring Cloud Config, Eureka service discovery, OpenFeign communication, Resilience4j fault tolerance, and Keycloak/OAuth2 security with full observability.",
       tech: ["Java", "Spring Boot", "OAuth2", "Spring Cloud", "Grafana", "RabbitMQ", "Docker"],
+      url: "https://github.com/Upendra-23",
     },
     {
-      title: "Payment Gateway System",
+      title: "DrawSpace",
       description:
-        "Designed a scalable payment gateway with transaction processing, fraud detection, and multi-currency support.",
-      tech: ["Java", "Spring Boot", "REST APIs"],
+        "A feature-rich drawing application built with React 19, TypeScript, Zustand, and HTML5 Canvas. Supports pen, shapes, eraser, select tools, undo/redo, zoom/pan, and dark/light theme.",
+      tech: ["React", "TypeScript", "Zustand", "Canvas", "Vite"],
+      url: "https://github.com/Upendra-23/DrawSpace",
+      liveUrl: "https://draw-space-um.vercel.app",
     },
     {
-      title: "Ride Sharing Application",
+      title: "Portfolio Dashboard",
       description:
-        "Built a ride-sharing platform backend with real-time driver matching, fare calculation, and trip management.",
-      tech: ["Spring Boot", "Microservices", "System Design"],
-    },
-    {
-      title: "Notification System",
-      description:
-        "Enterprise notification service supporting email, SMS, and push notifications with templating and retry logic.",
-      tech: ["Spring Boot", "Apache Camel", "IBM MQ"],
-    },
-    {
-      title: "Parking Lot System",
-      description:
-        "LLD-based parking lot management system supporting multiple floors, vehicle types, and dynamic pricing.",
-      tech: ["Java", "OOP", "Design Patterns"],
-    },
-    {
-      title: "ATM Machine Design",
-      description:
-        "Low-level design of an ATM system with cash dispensing, deposit, balance inquiry, and PIN management.",
-      tech: ["Java", "LLD", "OOP"],
-    },
-    {
-      title: "Order Management Workflow System",
-      description:
-        "State machine-driven order lifecycle management with status transitions, validation, and event handling.",
-      tech: ["Spring State Machine", "Spring Boot", "Microservices"],
-    },
-    {
-      title: "Vending Machine System",
-      description:
-        "LLD implementation of a vending machine with inventory management, payment processing, and change dispensing.",
-      tech: ["Java", "OOP", "Design Patterns"],
-    },
-    {
-      title: "Coffee Machine System",
-      description:
-        "Designed a coffee machine system supporting multiple beverage types, ingredient management, and concurrent requests.",
-      tech: ["Java", "OOP", "Concurrency"],
-    },
-    {
-      title: "Token Bucket Rate Limiter",
-      description:
-        "Implemented a token bucket rate-limiting algorithm for API throttling with configurable capacity and refill rates.",
-      tech: ["Java", "System Design", "Concurrency"],
-    },
-    {
-      title: "Smart GPS Vehicle Speed Controller",
-      description:
-        "IEEE research project — geo-fencing algorithm to automatically limit vehicle speed based on GPS zone identification.",
-      tech: ["IEEE", "Geo-fencing", "IoT"],
+        "Personal portfolio built with React 19, Vite 8, and Tailwind CSS v4. Features a 3-theme system, 3D card hover effects, horizontal scrollable project cards, and a scroll-aware sticky navbar.",
+      tech: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
+      url: "https://github.com/Upendra-23/portfolio",
     },
   ],
 
