@@ -124,6 +124,14 @@ export const profile = {
       url: "https://github.com/Upendra-23",
     },
     {
+      title: "FormatHub",
+      description:
+        "A browser-based code formatter, converter, and validator supporting 12+ formats with Monaco Editor, real-time validation, diff tool, and dark/light themes. Fully client-side, no server needed.",
+      tech: ["React", "TypeScript", "Vite", "Monaco Editor", "Prettier"],
+      url: "https://github.com/Upendra-23/FormatHub",
+      liveUrl: "https://format-hub-mu.vercel.app",
+    },
+    {
       title: "DrawSpace",
       description:
         "A feature-rich drawing application built with React 19, TypeScript, Zustand, and HTML5 Canvas. Supports pen, shapes, eraser, select tools, undo/redo, zoom/pan, and dark/light theme.",
